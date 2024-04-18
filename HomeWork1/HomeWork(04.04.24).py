@@ -1,20 +1,20 @@
-# # Task 2
+# Task 2
 # import math
 # cat1 = float(input("Введите первый катет: "))
 # cat2 = float(input("Введите второй катет: "))
 # hypotenuse = math.sqrt(cat1**2 + cat2**2)
 # print("Гипотенуза равна", hypotenuse)
 #
-# # Task 3
+# Task 3
 # text = input("Введите текст: ")
 # words = text.split()
 # print("Количество слов в данной строке =", len(words))
-#
-# # Task 4
+
+# Task 4
 # original_text = input("Напишите текст: ")
 # new_text = original_text.replace("h", "H")
 # print("Реформат строки:", new_text)
-#
+
 # # Task 5
 # text = input("Введите строку ")
 # print("Третий символ строки:", text[2])
